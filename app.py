@@ -184,7 +184,6 @@ with st.sidebar:
     st.divider()
     st.caption("TOR Raptors @ WAS Wizards")
     st.caption("Feb 26 – Mar 1, 2026")
-    st.caption(f"Sasha Stoikov — Coauthor")
 
 # Load data
 trades = load_trades()
